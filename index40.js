@@ -1,25 +1,3 @@
-// Self Trying and Practising
-
-// const { addListener } = require("nodemon");
-
- 
-// const a = [1, 2, 3, -3, 4, 5, 6];
-
-// const firstNeg = (anyNumber) => {
-//     return anyNumber < 0;
-// }
-
-// const result = a.find(firstNeg);
-// console.log(result);
-
-
-
-// const materials = ['hydrogen', 'Helium', 'lithium', 'berylium'];
-// console.log(mater);
-
-
-
-
 // Array Map Filter and Reduce
 
 
